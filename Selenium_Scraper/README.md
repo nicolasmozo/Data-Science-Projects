@@ -1,0 +1,1 @@
+A web scraper that collects financial statements for cryptocurrencies on a monthly basis and processes the data into three separate data frames. Each data frame represents a different time period: monthly, quarterly, and annually.
